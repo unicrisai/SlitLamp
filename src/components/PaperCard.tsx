@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { AbbrText } from "@/components/AbbrText";
 import { ReviewBadge, Tag } from "@/components/Badges";
 import { formatDate } from "@/lib/format";
@@ -28,9 +29,9 @@ export function PaperCard({
       </div>
 
       <h3 className="text-base font-semibold leading-snug">
-        <a href={paper.url} target="_blank" rel="noopener noreferrer" className="hover:text-brand hover:underline">
+        <Link href={`/papers/${paper.pmid}/`} className="hover:text-brand hover:underline">
           <AbbrText text={paper.title} glossary={glossary} context={paper.subspecialty_ids} />
-        </a>
+        </Link>
       </h3>
       <p className="mt-1 text-sm text-muted">
         <em>{paper.journal}</em>
@@ -59,6 +60,9 @@ export function PaperCard({
         <span>
           Source: {sourceName}, retrieved {formatDate(paper.retrieved_at)}
         </span>
+        <Link href={`/papers/${paper.pmid}/`} className="ml-auto font-medium text-brand hover:underline">
+          {paper.summary ? "Read summary →" : "Details →"}
+        </Link>
       </div>
     </article>
   );

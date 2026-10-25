@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import { DigestView } from "@/components/DigestView";
+import { Page } from "@/components/Page";
 import { loadAll, loadCollection } from "@/lib/data";
 
 export const dynamicParams = false;
@@ -17,8 +18,12 @@ export default async function DigestPage({ params }: { params: Promise<{ week: s
   const data = loadAll();
   const digest = data.digests.find((d) => d.week_start === week);
   if (!digest) {
-    if (week === PLACEHOLDER) return <p className="text-muted">No digests yet.</p>;
+    if (week === PLACEHOLDER) return <Page><p className="text-muted">No digests yet.</p></Page>;
     notFound();
   }
-  return <DigestView digest={digest} data={data} />;
+  return (
+    <Page>
+      <DigestView digest={digest} data={data} />
+    </Page>
+  );
 }
