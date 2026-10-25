@@ -1,0 +1,56 @@
+name: Weekly PubMed fetch
+
+on:
+  schedule:
+    # Mondays 01:00 UTC = 08:00 in Thailand; fetches the week that just ended.
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "Week start (a Monday, YYYY-MM-DD). Leave empty for last week."
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Fetch PubMed
+        env:
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_TOOL: slitlamp
+          WEEK: ${{ inputs.week }}
+        run: |
+          if [ -n "$WEEK" ]; then
+            npm run fetch:pubmed -- --week "$WEEK"
+          else
+            npm run fetch:pubmed
+          fi
+
+      - run: npm run validate
+
+      - name: Commit new data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: weekly PubMed fetch $(date -u +%F)"
+            git push
+          fi

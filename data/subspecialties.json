@@ -1,0 +1,12 @@
+[
+  { "id": "cornea", "slug": "cornea", "name": "Cornea and external disease" },
+  { "id": "cataract-refractive", "slug": "cataract-refractive", "name": "Cataract and refractive" },
+  { "id": "glaucoma", "slug": "glaucoma", "name": "Glaucoma" },
+  { "id": "retina", "slug": "retina", "name": "Retina and vitreous" },
+  { "id": "uveitis", "slug": "uveitis", "name": "Uveitis" },
+  { "id": "neuro", "slug": "neuro", "name": "Neuro-ophthalmology" },
+  { "id": "oculoplastics", "slug": "oculoplastics", "name": "Oculoplastics and orbit" },
+  { "id": "paediatric", "slug": "paediatric", "name": "Paediatric ophthalmology and strabismus" },
+  { "id": "oncology", "slug": "oncology", "name": "Ocular oncology" },
+  { "id": "general", "slug": "general", "name": "General ophthalmology" }
+]

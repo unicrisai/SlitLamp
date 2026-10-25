@@ -1,0 +1,128 @@
+[
+  {
+    "id": "egs-terminology-guidelines",
+    "title": "Terminology and Guidelines for Glaucoma",
+    "issuer": "European Glaucoma Society",
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://www.eugs.org/educational_materials/190",
+    "version_label": "6th edition",
+    "version_date": null,
+    "last_checked_at": "2026-10-25T11:20:16Z",
+    "status": "current",
+    "change_note": null,
+    "change_note_status": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "source_id": "eugs"
+  },
+  {
+    "id": "ico-diabetic-eye-care",
+    "title": "ICO Guidelines for Diabetic Eye Care",
+    "issuer": "International Council of Ophthalmology",
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://icoph.org/?p=4870",
+    "version_label": null,
+    "version_date": null,
+    "last_checked_at": "2026-10-25T11:20:16Z",
+    "status": "current",
+    "change_note": null,
+    "change_note_status": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "source_id": "icoph"
+  },
+  {
+    "id": "ico-glaucoma-eye-care",
+    "title": "ICO Guidelines for Glaucoma Eye Care",
+    "issuer": "International Council of Ophthalmology",
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://icoph.org/?p=4870",
+    "version_label": null,
+    "version_date": null,
+    "last_checked_at": "2026-10-25T11:20:16Z",
+    "status": "current",
+    "change_note": null,
+    "change_note_status": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "source_id": "icoph"
+  },
+  {
+    "id": "aao-ppp-comprehensive-adult",
+    "title": "Comprehensive Adult Medical Eye Evaluation PPP",
+    "issuer": "American Academy of Ophthalmology",
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://www.aao.org/education/preferred-practice-pattern/comprehensive-adult-medical-eye-evaluation-ppp",
+    "version_label": "2025",
+    "version_date": null,
+    "last_checked_at": "2026-10-25T11:20:16Z",
+    "status": "current",
+    "change_note": null,
+    "change_note_status": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "source_id": "aao"
+  },
+  {
+    "id": "aao-ppp-poag",
+    "title": "Primary Open-Angle Glaucoma PPP",
+    "issuer": "American Academy of Ophthalmology",
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://www.aao.org/education/preferred-practice-pattern/primary-open-angle-glaucoma-ppp",
+    "version_label": "2025",
+    "version_date": null,
+    "last_checked_at": "2026-10-25T11:20:16Z",
+    "status": "current",
+    "change_note": null,
+    "change_note_status": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "source_id": "aao"
+  },
+  {
+    "id": "aao-ppp-poag-suspect",
+    "title": "Primary Open-Angle Glaucoma Suspect PPP",
+    "issuer": "American Academy of Ophthalmology",
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://www.aao.org/education/preferred-practice-pattern/primary-open-angle-glaucoma-suspect-ppp",
+    "version_label": "2025",
+    "version_date": null,
+    "last_checked_at": "2026-10-25T11:20:16Z",
+    "status": "current",
+    "change_note": null,
+    "change_note_status": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "source_id": "aao"
+  },
+  {
+    "id": "aao-ppp-angle-closure",
+    "title": "Primary Angle-Closure Disease PPP",
+    "issuer": "American Academy of Ophthalmology",
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://www.aao.org/education/preferred-practice-pattern/primary-angle-closure-disease-ppp",
+    "version_label": "2025",
+    "version_date": null,
+    "last_checked_at": "2026-10-25T11:20:16Z",
+    "status": "current",
+    "change_note": null,
+    "change_note_status": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "source_id": "aao"
+  }
+]

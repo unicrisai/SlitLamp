@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pubmed",
+    "name": "PubMed (NCBI E-utilities)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "licence": "Citation data free to use; abstracts are publisher copyright and are not stored",
+    "retrieved_at": "2026-10-25T11:37:17Z"
+  },
+  {
+    "id": "aao",
+    "name": "American Academy of Ophthalmology",
+    "url": "https://www.aao.org/education/guidelines-browse?filter=preferredpracticepatternsguidelines",
+    "licence": "AAO copyright; link and version only",
+    "retrieved_at": "2026-10-25T11:20:16Z"
+  },
+  {
+    "id": "eugs",
+    "name": "European Glaucoma Society",
+    "url": "https://www.eugs.org/educational_materials/190",
+    "licence": "EGS copyright; link and version only",
+    "retrieved_at": "2026-10-25T11:20:16Z"
+  },
+  {
+    "id": "icoph",
+    "name": "International Council of Ophthalmology",
+    "url": "https://icoph.org/?p=4870",
+    "licence": "ICO encourages non-commercial adaptation with credit; link only",
+    "retrieved_at": "2026-10-25T11:20:16Z"
+  }
+]
