@@ -509,5 +509,657 @@
     "reviewed_at": null,
     "retrieved_at": "2026-10-25T11:37:17Z",
     "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42924992",
+    "pmid": "42924992",
+    "doi": "10.1167/iovs.67.12.57",
+    "title": "Association Between Ellipsoid Zone Area and Fixation Stability in Macular Telangiectasia Type 2.",
+    "journal": "Investigative ophthalmology & visual science",
+    "pub_date": "2026 Oct 1",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42924992/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42921875",
+    "pmid": "42921875",
+    "doi": "10.1002/nop2.70964",
+    "title": "Eye Protection Chamber for Preventing Corneal Injury in Surgical Patients: Protocol for a Randomised Pilot and Feasibility Trial.",
+    "journal": "Nursing open",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42921875/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42920596",
+    "pmid": "42920596",
+    "doi": "10.3389/fendo.2026.1961622",
+    "title": "Mapping the methodological framework of diabetic retinopathy interventional trials: a scoping review on trial design, execution, and reporting practices.",
+    "journal": "Frontiers in endocrinology",
+    "pub_date": "2026",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920596/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42907678",
+    "pmid": "42907678",
+    "doi": "10.1007/s10792-026-04299-x",
+    "title": "Association between rheumatic diseases and glaucoma risk: a systematic review and meta-analysis of 5.7 million individuals.",
+    "journal": "International ophthalmology",
+    "pub_date": "2026 Oct 21",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907678/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42906087",
+    "pmid": "42906087",
+    "doi": "10.1056/NEJMoa2601088",
+    "title": "Ianalumab for the Treatment of Patients with Sjögren's Disease.",
+    "journal": "The New England journal of medicine",
+    "pub_date": "2026 Oct 22",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906087/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42897552",
+    "pmid": "42897552",
+    "doi": "10.1186/s12913-026-15199-2",
+    "title": "Mobile applications for ophthalmology: a quantitative and qualitative analysis.",
+    "journal": "BMC health services research",
+    "pub_date": "2026 Jul 23",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42897552/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42895056",
+    "pmid": "42895056",
+    "doi": "10.1111/1753-0407.70271",
+    "title": "Detection and Risk Prediction of Diabetes Related Kidney Disease Using Retinal Images: A Systematic Review and Meta-Analysis.",
+    "journal": "Journal of diabetes",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895056/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42888377",
+    "pmid": "42888377",
+    "doi": "10.1007/s44402-026-00208-y",
+    "title": "Global and Regional Risk Factors for Vision Impairment in 2020 and Multi-decadal Trends 1990-2020: A Meta-Analysis and Visual Display Based on Prevalence Data From the Global Burden of Disease study and Vision Loss Expert Group.",
+    "journal": "Ophthalmic & physiological optics : the journal of the British College of Ophthalmic Opticians (Optometrists)",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888377/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42837748",
+    "pmid": "42837748",
+    "doi": "10.1016/j.msard.2026.107950",
+    "title": "Prevalence of autoimmune comorbidities in aquaporin 4-immunoglobulin G positive neuromyelitis optica spectrum disorder: a systematic review and meta-analysis.",
+    "journal": "Multiple sclerosis and related disorders",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "neuro"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837748/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42782579",
+    "pmid": "42782579",
+    "doi": "10.1007/s40265-026-02388-w",
+    "title": "Efficacy and Safety of IGF-1 Receptor Inhibitors for Thyroid Eye Disease: Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+    "journal": "Drugs",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "oculoplastics"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42782579/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42742496",
+    "pmid": "42742496",
+    "doi": "10.1016/j.ophtha.2026.07.030",
+    "title": "Biologic Switching Strategies for Anti-Tumor Necrosis Factor Alpha Refractory Noninfectious Uveitis: Systematic Review and Meta-Analysis of Clinical Approach.",
+    "journal": "Ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "uveitis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42742496/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42697106",
+    "pmid": "42697106",
+    "doi": "10.1016/j.msard.2026.107678",
+    "title": "A systematic review and meta-analysis of the efficacy and safety of eculizumab in AQP4-IgG-positive neuromyelitis optica spectrum disorder.",
+    "journal": "Multiple sclerosis and related disorders",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "neuro"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42697106/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42531436",
+    "pmid": "42531436",
+    "doi": "10.1097/IAE.0000000000004943",
+    "title": "EVALUATING THE EFFICACY AND SAFETY OF TOPICAL DIFLUPREDNATE IN PATIENTS WITH CHRONIC CENTRAL SEROUS CHORIORETINOPATHY.",
+    "journal": "Retina (Philadelphia, Pa.)",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531436/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42530277",
+    "pmid": "42530277",
+    "doi": "10.1080/02713683.2026.2704368",
+    "title": "Cross-Compartment Proteomic Signatures in Human Diabetic Retinopathy: A Systematic Review and Meta-Analysis.",
+    "journal": "Current eye research",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530277/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42526549",
+    "pmid": "42526549",
+    "doi": "10.1016/j.jep.2026.122255",
+    "title": "Prunella Oral Liquid in combination with Western medical treatment for Graves' disease: A systematic review and meta-analysis.",
+    "journal": "Journal of ethnopharmacology",
+    "pub_date": "2027 Jan 30",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42526549/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42524860",
+    "pmid": "42524860",
+    "doi": "10.1097/IAE.0000000000004927",
+    "title": "EFFICACY AND SAFETY OF SUBTHRESHOLD LASER IN PATIENTS WITH ACUTE CENTRAL SEROUS CHORIORETINOPATHY: A Systematic Review and Meta-analysis.",
+    "journal": "Retina (Philadelphia, Pa.)",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42524860/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42497322",
+    "pmid": "42497322",
+    "doi": "10.1097/IAE.0000000000004939",
+    "title": "ULTRAWIDE-FIELD COLOR FUNDUS IMAGES AND ARTIFICIAL INTELLIGENCE FOR DIAGNOSIS OF DIABETIC RETINOPATHY: A Systematic Review and Meta-Analysis.",
+    "journal": "Retina (Philadelphia, Pa.)",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42497322/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42480007",
+    "pmid": "42480007",
+    "doi": "10.1080/09286586.2026.2706249",
+    "title": "To Investigate the Effect of Combined Use of 0.01% Atropine and 2% Carteolol Hydrochloride Eye Drops on Early-Onset Myopic Control in Western Chinese Children.",
+    "journal": "Ophthalmic epidemiology",
+    "pub_date": "2026 Dec",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "glaucoma",
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42480007/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42379522",
+    "pmid": "42379522",
+    "doi": "10.1016/j.ophtha.2026.06.023",
+    "title": "Avacincaptad Pegol Slows Progressive Ellipsoid Zone Degradation and Loss in Eyes with Geographic Atrophy.",
+    "journal": "Ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42379522/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42377302",
+    "pmid": "42377302",
+    "doi": "10.1177/11206721261461908",
+    "title": "Optimizing mitomycin C in photorefractive keratectomy: A paired-eye comparison of 15- versus 30-second applications.",
+    "journal": "European journal of ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42377302/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42360009",
+    "pmid": "42360009",
+    "doi": "10.1080/08820538.2026.2693751",
+    "title": "Port Delivery System Vs Monthly Ranibizumab in VEGF-Driven Macular Disease: A Systematic Review and Meta-Analysis.",
+    "journal": "Seminars in ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42360009/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42313173",
+    "pmid": "42313173",
+    "doi": "10.1007/s00702-026-03210-3",
+    "title": "Comparative efficacy and safety of botulinum neurotoxin type A in blepharospasm and hemifacial spasm: a systematic review and Bayesian network meta-analysis.",
+    "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+    "pub_date": "2026 Sep",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42313173/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42312551",
+    "pmid": "42312551",
+    "doi": "10.1097/j.jcrs.0000000000002008",
+    "title": "Efficacy and safety of implantable phakic contact lens vs implantable collamer lens in myopic eyes: systematic review and meta-analysis.",
+    "journal": "Journal of cataract and refractive surgery",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312551/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42307266",
+    "pmid": "42307266",
+    "doi": "10.1177/11206721261461914",
+    "title": "Clinical outcomes of conventional Vs. transepithelial photorefractive keratectomy: A prospective contralateral eye study.",
+    "journal": "European journal of ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42307266/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42297306",
+    "pmid": "42297306",
+    "doi": "10.1016/j.ophtha.2026.06.011",
+    "title": "The Effects of a Digital Mindfulness Intervention on Mental Health and Vision-Related Quality of Life in Noninfectious Uveitis.",
+    "journal": "Ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "uveitis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42297306/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42227804",
+    "pmid": "42227804",
+    "doi": "10.1177/11206721261452037",
+    "title": "Corneal epithelium remodelling after Laser refractive surgery with perioperative intense pulsed light treatment.",
+    "journal": "European journal of ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42227804/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42187331",
+    "pmid": "42187331",
+    "doi": "10.1097/j.jcrs.0000000000001980",
+    "title": "Influence of capsular tension ring implantation on dynamic in vivo capsular apposition and intraocular lens behavior in highly myopic eyes.",
+    "journal": "Journal of cataract and refractive surgery",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42187331/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42154783",
+    "pmid": "42154783",
+    "doi": "10.1177/11206721261452307",
+    "title": "Comparative effectiveness of defocus lenses, atropine, and their combined use for myopia control in children: A systematic review.",
+    "journal": "European journal of ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42154783/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-41759626",
+    "pmid": "41759626",
+    "doi": "10.1016/j.bj.2026.100963",
+    "title": "Comparison of tear function in patients with and without mental disorders: A systematic review and meta-analysis.",
+    "journal": "Biomedical journal",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41759626/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-10-26T05:50:25Z",
+    "source_id": "pubmed"
   }
 ]
