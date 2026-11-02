@@ -1161,5 +1161,658 @@
     "reviewed_at": null,
     "retrieved_at": "2026-10-26T05:50:25Z",
     "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42965719",
+    "pmid": "42965719",
+    "doi": "10.1007/s10792-026-04310-5",
+    "title": "Toxoplasmosis-associated optic neuropathies: a systematic review and meta-analysis of clinical characteristics, diagnosis, and outcomes.",
+    "journal": "International ophthalmology",
+    "pub_date": "2026 Oct 31",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "neuro"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965719/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42964207",
+    "pmid": "42964207",
+    "doi": "10.3389/fpubh.2026.1939923",
+    "title": "Digital health technologies for myopia care: a systematic review.",
+    "journal": "Frontiers in public health",
+    "pub_date": "2026",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964207/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42963807",
+    "pmid": "42963807",
+    "doi": "10.1186/s42358-026-00591-7",
+    "title": "Prevalence of depression and anxiety among patients with Behçet's disease: a systematic review and meta-analysis.",
+    "journal": "Advances in rheumatology (London, England)",
+    "pub_date": "2026 Oct 29",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "uveitis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963807/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42959148",
+    "pmid": "42959148",
+    "doi": "10.3389/fendo.2026.1881602",
+    "title": "The association between diabetic retinopathy and cognitive impairment in patients with diabetes mellitus: a systematic review and meta-analysis.",
+    "journal": "Frontiers in endocrinology",
+    "pub_date": "2026",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42959148/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42958114",
+    "pmid": "42958114",
+    "doi": "10.1186/s12886-026-05483-4",
+    "title": "Artificial intelligence across the cataract care continuum: a systematic scoping review introducing the CAICC framework and the surgical complexity prediction gap.",
+    "journal": "BMC ophthalmology",
+    "pub_date": "2026 Oct 27",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42958114/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42958112",
+    "pmid": "42958112",
+    "doi": "10.1186/s12886-026-05175-z",
+    "title": "Artificial intelligence and glaucoma structure-function map: a systematic review.",
+    "journal": "BMC ophthalmology",
+    "pub_date": "2026 Aug 3",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42958112/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42958103",
+    "pmid": "42958103",
+    "doi": "10.1186/s12886-026-05179-9",
+    "title": "Systematic review and meta-analysis of refractive errors in Ghana with emphasis on myopia.",
+    "journal": "BMC ophthalmology",
+    "pub_date": "2026 Aug 3",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42958103/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42957683",
+    "pmid": "42957683",
+    "doi": "10.1038/s41467-026-77797-2",
+    "title": "Different concentrations of atropine in children with high myopia: a 2-year multicenter double-blind, randomized controlled trial.",
+    "journal": "Nature communications",
+    "pub_date": "2026 Oct 2",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957683/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42956068",
+    "pmid": "42956068",
+    "doi": "10.1371/journal.pone.0361102",
+    "title": "Evaluation of digital binocular therapies for amblyopia after refractive adaptation in treatment-naive children aged 3-13 years: A systematic review and meta-analysis of randomised controlled trials.",
+    "journal": "PloS one",
+    "pub_date": "2026",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "paediatric"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42956068/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42954735",
+    "pmid": "42954735",
+    "doi": "10.1167/tvst.15.10.50",
+    "title": "The Effect of Resveratrol, Quercetin, and Curcumin on Drusen Volume in Age-Related Macular Degeneration: A Randomized Clinical Trial.",
+    "journal": "Translational vision science & technology",
+    "pub_date": "2026 Oct 5",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42954735/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42954734",
+    "pmid": "42954734",
+    "doi": "10.1167/tvst.15.10.51",
+    "title": "A Digital Twin-Inspired Patient-Specific Eye-Lens Simulation Framework for Pediatric Postcycloplegic Spectacle Prescription: A Prospective Agreement Study.",
+    "journal": "Translational vision science & technology",
+    "pub_date": "2026 Oct 5",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42954734/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42954231",
+    "pmid": "42954231",
+    "doi": "10.55563/clinexprheumatol/36mion",
+    "title": "Left ventricular assessment using speckle-tracking echocardiography in Behçet's disease: a systematic review and meta-analysis.",
+    "journal": "Clinical and experimental rheumatology",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "uveitis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42954231/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42947512",
+    "pmid": "42947512",
+    "doi": "10.4103/IJO.IJO_3296_25",
+    "title": "Pars plana vitrectomy with silicone oil versus pars plana vitrectomy alone for postoperative endophthalmitis: A randomized controlled trial.",
+    "journal": "Indian journal of ophthalmology",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina",
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42947512/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42930596",
+    "pmid": "42930596",
+    "doi": "10.3390/medsci14060677",
+    "title": "AI-Guided Histopathological and Molecular Phenotyping of Salivary Glands in Sjögren's Disease: Subtyping, Mechanistic Insights, and Translational Implications-A Systematic Review and Structured Functional Synthesis.",
+    "journal": "Medical sciences (Basel, Switzerland)",
+    "pub_date": "2026 Oct 15",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42930596/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42930583",
+    "pmid": "42930583",
+    "doi": "10.3390/medsci14060664",
+    "title": "Cost-Effectiveness of Angle-Based Minimally Invasive Glaucoma Surgery (MIGS): A Systematic Review of Economic Evaluations.",
+    "journal": "Medical sciences (Basel, Switzerland)",
+    "pub_date": "2026 Oct 12",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "glaucoma",
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42930583/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42930573",
+    "pmid": "42930573",
+    "doi": "10.3390/medsci14060654",
+    "title": "Impact of Cataract Surgery on Postural Control and Fall Risk in Adults and the Elderly: A Systematic Review.",
+    "journal": "Medical sciences (Basel, Switzerland)",
+    "pub_date": "2026 Oct 9",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42930573/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42854985",
+    "pmid": "42854985",
+    "doi": "10.1016/j.apjo.2026.100381",
+    "title": "International consensuses and guidelines on etiology, diagnosis, and treatment of Retinal Vein Occlusion (RVO) by the Academy of Asia-Pacific Professors of Ophthalmology (AAPPO), Asia-Pacific Vitreo-retina Society (APVRS) and Academia Retina Internationalis (ARI).",
+    "journal": "Asia-Pacific journal of ophthalmology (Philadelphia, Pa.)",
+    "pub_date": "2026",
+    "publication_types": [
+      "practice_guideline"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854985/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42732083",
+    "pmid": "42732083",
+    "doi": "10.1080/14656566.2026.2734124",
+    "title": "Immunosuppressive and immunomodulatory therapies in Sjögren's disease: current landscape and future perspectives.",
+    "journal": "Expert opinion on pharmacotherapy",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42732083/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42727211",
+    "pmid": "42727211",
+    "doi": "10.1016/j.jfo.2025.104671",
+    "title": "Diffuse lamellar keratitis after kerato-refractive lenticule extraction.",
+    "journal": "Journal francais d'ophtalmologie",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "cornea",
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727211/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42710617",
+    "pmid": "42710617",
+    "doi": "10.1016/j.rceng.2026.502615",
+    "title": "Joint position paper on anterior ischemic optic neuropathy (AION). Vascular Risk Group and Systemic Autoimmune Diseases Group (GEAS) of the Spanish Society of Internal Medicine (SEMI) together with the Spanish Retina and Vitreous Society (SERV).",
+    "journal": "Revista clinica espanola",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "practice_guideline"
+    ],
+    "subspecialty_ids": [
+      "neuro"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710617/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42648031",
+    "pmid": "42648031",
+    "doi": "10.1016/j.jfo.2026.104958",
+    "title": "Management of glaucoma in high myopia: Guidelines from the French Glaucoma Society (SFG) and the French-speaking Retina Specialists' Club (CFSR).",
+    "journal": "Journal francais d'ophtalmologie",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "practice_guideline"
+    ],
+    "subspecialty_ids": [
+      "glaucoma",
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42648031/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42637133",
+    "pmid": "42637133",
+    "doi": "10.1016/j.oftale.2026.502646",
+    "title": "Endophthalmitis prevention in Refractive Lens Exchange.",
+    "journal": "Archivos de la Sociedad Espanola de Oftalmologia",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina",
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42637133/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42503334",
+    "pmid": "42503334",
+    "doi": "10.1016/j.apjo.2026.100353",
+    "title": "Three-year outcomes of phacogoniotomy versus phacotrabeculectomy for advanced primary angle-closure glaucoma with cataract: A randomized controlled trial.",
+    "journal": "Asia-Pacific journal of ophthalmology (Philadelphia, Pa.)",
+    "pub_date": "2026",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "glaucoma",
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42503334/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42501949",
+    "pmid": "42501949",
+    "doi": "10.1016/j.apjo.2026.100354",
+    "title": "Slowing myopia progression with a novel spectacle lens - 1-year, randomized double-masked, cross-over clinical trial.",
+    "journal": "Asia-Pacific journal of ophthalmology (Philadelphia, Pa.)",
+    "pub_date": "2026",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42501949/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42481362",
+    "pmid": "42481362",
+    "doi": "10.1016/j.neurol.2026.06.004",
+    "title": "French guidelines for the diagnosis and management of neuromyelitis optica spectrum disorder.",
+    "journal": "Revue neurologique",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "practice_guideline"
+    ],
+    "subspecialty_ids": [
+      "neuro"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42481362/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42439921",
+    "pmid": "42439921",
+    "doi": "10.1007/s00595-026-03373-2",
+    "title": "Ocular metastasis from esophageal cancer: a systematic review and pooled analysis of individual-level case data.",
+    "journal": "Surgery today",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "oncology"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42439921/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42330207",
+    "pmid": "42330207",
+    "doi": "10.4103/IJO.IJO_2693_25",
+    "title": "A randomized controlled study to compare the efficacy of intravitreal faricimab 6.0 mg versus aflibercept 2.0 mg in management of treatment-naive diabetic macular edema in Indian populations.",
+    "journal": "Indian journal of ophthalmology",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42330207/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-41564392",
+    "pmid": "41564392",
+    "doi": "10.1080/08164622.2025.2612184",
+    "title": "Optical coherence tomography retinal biomarkers for traumatic brain injuries: a systematic review and meta-analysis.",
+    "journal": "Clinical & experimental optometry",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41564392/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-41525492",
+    "pmid": "41525492",
+    "doi": "10.1080/08164622.2025.2610976",
+    "title": "Saccadic eye movements in amblyopia: a systematic review and meta-analysis.",
+    "journal": "Clinical & experimental optometry",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "paediatric"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41525492/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-02T07:25:02Z",
+    "source_id": "pubmed"
   }
 ]
