@@ -1814,5 +1814,704 @@
     "reviewed_at": null,
     "retrieved_at": "2026-11-02T07:25:02Z",
     "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42998190",
+    "pmid": "42998190",
+    "doi": "10.1007/s10792-026-04326-x",
+    "title": "Retinal and choroidal changes on optical coherence tomography in pre-eclampsia: a systematic review and meta-analysis.",
+    "journal": "International ophthalmology",
+    "pub_date": "2026 Nov 7",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998190/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42995527",
+    "pmid": "42995527",
+    "doi": "10.1186/s12886-026-05211-y",
+    "title": "Efficacy and safety of repeated low-level red light therapy in myopia control: an updated and comprehensive systematic review and meta-analysis.",
+    "journal": "BMC ophthalmology",
+    "pub_date": "2026 Aug 10",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995527/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42994856",
+    "pmid": "42994856",
+    "doi": "10.1097/MD.0000000000051345",
+    "title": "Risk of retinal vascular occlusion following COVID-19 vaccination: A meta-analysis of nearly 15 million individuals.",
+    "journal": "Medicine",
+    "pub_date": "2026 Nov 6",
+    "publication_types": [
+      "meta_analysis",
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42994856/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42992810",
+    "pmid": "42992810",
+    "doi": "10.3928/1081597X-20260904-02",
+    "title": "Anterior Chamber Depth Changes: After Phacoemulsification in Eyes With Pseudoexfoliation Syndrome Versus Control Eyes: A Systematic Review and Meta-analysis.",
+    "journal": "Journal of refractive surgery (Thorofare, N.J. : 1995)",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive",
+      "glaucoma"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42992810/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42989166",
+    "pmid": "42989166",
+    "doi": "10.1186/s12886-026-05218-5",
+    "title": "Risk factors for keratoconus: a systematic review and meta-analysis.",
+    "journal": "BMC ophthalmology",
+    "pub_date": "2026 Aug 8",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42989166/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42989034",
+    "pmid": "42989034",
+    "doi": "10.1007/s10792-026-04322-1",
+    "title": "Endoscopic dacryocystorhinostomy with versus without silicone intubation in chronic dacryocystitis: a comparative meta-analysis.",
+    "journal": "International ophthalmology",
+    "pub_date": "2026 Nov 5",
+    "publication_types": [
+      "meta_analysis",
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "oculoplastics"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42989034/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42986498",
+    "pmid": "42986498",
+    "doi": "10.1007/s10792-026-04328-9",
+    "title": "The impact of nutrition on glaucoma progression: evidence from systematic literature review and meta-analysis.",
+    "journal": "International ophthalmology",
+    "pub_date": "2026 Nov 5",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986498/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42986170",
+    "pmid": "42986170",
+    "doi": "10.1167/tvst.15.11.6",
+    "title": "Randomized Single-Masked Study of Preservative-Free Versus Preserved Hyaluronic Acid in Dry Eye Disease.",
+    "journal": "Translational vision science & technology",
+    "pub_date": "2026 Nov 2",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986170/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42975101",
+    "pmid": "42975101",
+    "doi": "10.1167/iovs.67.13.9",
+    "title": "Visual Perceptual Learning Based on Adaptive Contrast Detection Training Enhances Vision and Contrast Sensitivity in Diabetic Retinopathy.",
+    "journal": "Investigative ophthalmology & visual science",
+    "pub_date": "2026 Nov 2",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42975101/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42973523",
+    "pmid": "42973523",
+    "doi": "10.3389/fpubh.2026.1885854",
+    "title": "Blinded by inequity: a scoping review of income-related and structural disparities in eye care in the United States.",
+    "journal": "Frontiers in public health",
+    "pub_date": "2026",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973523/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42972298",
+    "pmid": "42972298",
+    "doi": "10.1186/s12886-026-05222-9",
+    "title": "Effectiveness of spectacle lenses with highly aspherical lenslets (HAL) in slowing axial elongation and spherical equivalent refraction progression in myopic and pre-myopic children: a systematic review and meta-analysis.",
+    "journal": "BMC ophthalmology",
+    "pub_date": "2026 Aug 11",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42972298/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42970148",
+    "pmid": "42970148",
+    "doi": "10.1007/s10792-026-04281-7",
+    "title": "The risk of rhegmatogenous retinal detachment associated with topical pilocarpine: a systematic review.",
+    "journal": "International ophthalmology",
+    "pub_date": "2026 Nov 2",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970148/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42886586",
+    "pmid": "42886586",
+    "doi": "10.1097/IJG.0000000000002770",
+    "title": "Evaluating Long-Term Effectiveness and Safety of Glaucoma Surgical Innovations: A Systematic Review.",
+    "journal": "Journal of glaucoma",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886586/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42837491",
+    "pmid": "42837491",
+    "doi": "10.1080/17425247.2026.2727111",
+    "title": "Preclinical and clinical evaluation of an ocular nanoemulsion for the treatment of dry eye disease.",
+    "journal": "Expert opinion on drug delivery",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837491/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42772270",
+    "pmid": "42772270",
+    "doi": "10.4269/ajtmh.25-0541",
+    "title": "Comparison of Methods for Assessing Chlamydia trachomatis Transmission Intensity: A Systematic Review.",
+    "journal": "The American journal of tropical medicine and hygiene",
+    "pub_date": "2026 Nov 4",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42772270/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42746724",
+    "pmid": "42746724",
+    "doi": "10.1097/IJG.0000000000002781",
+    "title": "Relationship of Neighborhood Socioeconomic Deprivation With Glaucoma Severity and Medication Adherence in Veterans.",
+    "journal": "Journal of glaucoma",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "glaucoma"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746724/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42734093",
+    "pmid": "42734093",
+    "doi": "10.1111/ceo.70161",
+    "title": "Effect of Intracameral Air Injection on Corneal Endothelial Cell Loss After Phacoemulsification for Cataracts of LOCS III Nuclear Grade 4 or Higher: A Randomised Clinical Trial.",
+    "journal": "Clinical & experimental ophthalmology",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive",
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734093/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42730904",
+    "pmid": "42730904",
+    "doi": "10.1007/s11655-026-4050-y",
+    "title": "Zhangyanming Tablets for Dry Eye Disease: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Clinical Study.",
+    "journal": "Chinese journal of integrative medicine",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730904/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42717542",
+    "pmid": "42717542",
+    "doi": "10.1111/dom.71314",
+    "title": "Renal Safety of Intravitreal Ranibizumab and the Effects of SGLT2 Inhibition in Diabetic Macular Oedema: A Post Hoc Analysis of the COMET Trial.",
+    "journal": "Diabetes, obesity & metabolism",
+    "pub_date": "2026 Dec",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42717542/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42708385",
+    "pmid": "42708385",
+    "doi": "10.1080/09273948.2026.2730451",
+    "title": "Suprachoroidal Triamcinolone Acetonide in Noninfectious Uveitic Macular Edema: A Systematic Review of Evolving Clinical Evidence.",
+    "journal": "Ocular immunology and inflammation",
+    "pub_date": "2026 Oct",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "retina",
+      "uveitis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708385/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42606362",
+    "pmid": "42606362",
+    "doi": "10.1111/jdi.70395",
+    "title": "Noncoding RNAs as novel diagnostic biomarkers for diabetic retinopathy: A systematic review and meta-analysis.",
+    "journal": "Journal of diabetes investigation",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606362/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42585884",
+    "pmid": "42585884",
+    "doi": "10.1016/j.optom.2026.100621",
+    "title": "Diagnostic accuracy of objective measures for ocular malingering: A systematic review.",
+    "journal": "Journal of optometry",
+    "pub_date": "2026",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42585884/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42545705",
+    "pmid": "42545705",
+    "doi": "10.1001/jamapediatrics.2026.3247",
+    "title": "Dexamethasone Eye Drops to Prevent Treatment-Requiring Retinopathy of Prematurity: The DROPROP Randomized Clinical Trial.",
+    "journal": "JAMA pediatrics",
+    "pub_date": "2026 Nov 1",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina",
+      "paediatric"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42545705/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42516038",
+    "pmid": "42516038",
+    "doi": "10.1002/ohn.70346",
+    "title": "CHARGE Syndrome: What an Otolaryngologist Should Know-A Systematic Review and Meta-Analysis.",
+    "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "general"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42516038/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42467198",
+    "pmid": "42467198",
+    "doi": "10.1007/s00417-026-07386-y",
+    "title": "Higher order aberrations and visual quality after refractive surgeries for myopia: a systematic review and network meta-analysis.",
+    "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "cataract-refractive"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42467198/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42398914",
+    "pmid": "42398914",
+    "doi": "10.1016/j.oret.2026.06.032",
+    "title": "Effect of Key Baseline Disease Characteristics on Aflibercept 8 mg Dosing Interval Extension: A Post Hoc 96-Week Analysis of PULSAR.",
+    "journal": "Ophthalmology. Retina",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "retina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42398914/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42372875",
+    "pmid": "42372875",
+    "doi": "10.1016/j.oret.2026.06.023",
+    "title": "Evidence and Consensus-Based Imaging Guidelines in Tubercular Choroiditis: Multimodal Imaging in Uveitis (MUV) Task Force: Report 17.",
+    "journal": "Ophthalmology. Retina",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "practice_guideline"
+    ],
+    "subspecialty_ids": [
+      "uveitis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42372875/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42360466",
+    "pmid": "42360466",
+    "doi": "10.1007/s00417-026-07339-5",
+    "title": "DMEK, DSAEK, and repeat PKP for endothelial failure after PKP: systematic review and meta-analysis with a graphical synthesis of clinical decision factors.",
+    "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42360466/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42312567",
+    "pmid": "42312567",
+    "doi": "10.1097/ICO.0000000000004220",
+    "title": "Antifungal Therapy for Fusarium Keratitis : A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+    "journal": "Cornea",
+    "pub_date": "2026 Dec 1",
+    "publication_types": [
+      "systematic_review",
+      "meta_analysis"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312567/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-42270917",
+    "pmid": "42270917",
+    "doi": "10.1007/s00417-026-07327-9",
+    "title": "Comparative effectiveness of accelerated and standard corneal cross-linking in pediatrics: a systematic review and meta-analysis.",
+    "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "meta_analysis",
+      "systematic_review"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42270917/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
+  },
+  {
+    "id": "pmid-38763849",
+    "pmid": "38763849",
+    "doi": "10.1016/j.jvoice.2024.04.023",
+    "title": "Correlation of Dry Eye Disease and Laryngopharyngeal Reflux Based on Improved Symptoms With Combined Therapy.",
+    "journal": "Journal of voice : official journal of the Voice Foundation",
+    "pub_date": "2026 Nov",
+    "publication_types": [
+      "randomized_controlled_trial"
+    ],
+    "subspecialty_ids": [
+      "cornea"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38763849/",
+    "open_access_licence": null,
+    "summary": null,
+    "summary_status": "none",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "retrieved_at": "2026-11-09T07:42:47Z",
+    "source_id": "pubmed"
   }
 ]
